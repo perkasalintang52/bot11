@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['761192103'] //ur owner number
-global.ownername = "Udavin Wijesundara"
-global.ytname = "YT: UW TECH SHOW" //ur yt chanel name
-global.socialm = "Insta: udavin_wijesundara" //ur github or insta name
-global.location = "Sri-Lanka" //ur location
+global.owner = ['6281322577123'] //ur owner number
+global.ownername = "LINTANG"
+global.ytname = "YT: Lintang Perkasa" //ur yt chanel name
+global.socialm = "Insta: joceylintangg" //ur github or insta name
+global.location = "Indonesia" //ur location
 
 //bot bombdy
-global.botname = "White King WhatsApp Bot" //ur bot name
-global.websitex = "https://www.youtube.com/channel/UC8CNAgNIXy1O2vLBBSN7tcA" //ur website
+global.botname = "LINTANG BOT" //ur bot name
+global.websitex = "https://tiktok.com/@joceylintangg" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "Udavin Wijesundara"
+global.packname = "LINTANG BOT Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "LINTANG"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['761192103'] //ur owner tag
-global.ownernummenu = ['761192103'] //ur owner number in menu and all
-global.watermark = "White King WhatsApp Bot." //ur watermark
-global.botscript = "https://www.youtube.com/watch?v=vXBO1zJbGJ4"
-global.linkz1 = "https://chat.whatsapp.com/Ivsw8fEw5lW0n0qKEDHfUX"
-global.linkz2 = "https://chat.whatsapp.com/Jub3moTE7jaBERo8DqWXC1"
+global.ownertag = ['6281322577123'] //ur owner tag
+global.ownernummenu = ['6281322577123'] //ur owner number in menu and all
+global.watermark = "LINTANG BOT" //ur watermark
+global.botscript = "https://tiktok.com/@joceylintangg"
+global.linkz1 = "https://instagram.com/joceylintangg"
+global.linkz2 = "https://tiktok.com/@joceylintangg"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -92,7 +92,7 @@ global.ntilink = []
 global.lolhuman = "KaysaS"
 global.sessionName = "session"
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['']
 global.mess = {
     success: 'Done✓',
     admin: 'This feature is only for admins!',
